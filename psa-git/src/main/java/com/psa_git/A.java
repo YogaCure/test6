@@ -7,6 +7,6 @@ public class A {
     public static void main(String[] args) {
         System.out.println("Value of x :" +x);
         System.out.println("Value of y :" +y);
+        System.out.println("Thank you, This edit message comes from Git Repository");
     }
 }
- System.out.println("Thank you, This edit message comes from Git Repository");
